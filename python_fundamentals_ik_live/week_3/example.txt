@@ -1,0 +1,3 @@
+Programming is fun!
+Python for beginners
+This is the end of the document
